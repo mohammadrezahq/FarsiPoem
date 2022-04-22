@@ -1,0 +1,17 @@
+{
+  "name": "mohammadreza/farsi-poem",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "FarsiPoem\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "mohammadrezahq",
+      "email": "mohammadrezah.official@gmail.com"
+    }
+  ],
+  "require": {}
+}
