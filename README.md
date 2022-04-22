@@ -9,7 +9,7 @@ FarsiPoem works with https://api.ganjoor.net/ api.
 Install package with composer:
 
 ```
-composer require mor/farsipoem
+composer require mor/farsi-poem
 ```
 
 ### To Use
